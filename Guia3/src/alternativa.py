@@ -5,3 +5,4 @@ class Alternativa:
         self.texto = texto
         self.correta = correta
         self.explicacao = explicacao
+        
